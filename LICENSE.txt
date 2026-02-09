@@ -1,4 +1,4 @@
-Copyright (c) 2015 Raúl Marcos
+Copyright (c) 2026 Elias Ivan Merino Rodríguez 
 
 MIT License
 
